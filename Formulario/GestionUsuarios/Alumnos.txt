@@ -1,4 +1,0 @@
-Clara Ines|Cogollo Perez|17|Diseño Grafico|2
-Marbelis|Atencio Pitalua|18|Ingenieria de Sistemas|2
-Jose David |Cogollo Perez|19|Ingenieria de Sistemas|2
-Karol Willianny|Vivas Rodriguez|17|Diseño Grafico|1
